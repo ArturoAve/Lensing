@@ -1,0 +1,8 @@
+*.html
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.gitattributes
+.DS_Store
+
+scratch_1.py
+scratch_2.py
