@@ -1,6 +1,7 @@
 *.html
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*.textfactory
 .gitattributes
 .DS_Store
 
