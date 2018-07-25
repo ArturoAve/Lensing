@@ -4,6 +4,8 @@
 *.textfactory
 .gitattributes
 .DS_Store
+iMac*
+Mac*
 
 scratch_1.py
 scratch_2.py
