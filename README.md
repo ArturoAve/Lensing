@@ -1,2 +1,4 @@
 # Lensing
-Simulation of magnified light curves of stars due to gravitational lensing. The output will be used for LSST (https://www.lsst.org)
+Scripts used to generate simulated light curves of microlensing events from single and binary lens. The generated light curves were used in the "Photometric LSST Astronomical Time Series Classification Challenge" (PLAsTICC) https://www.kaggle.com/c/PLAsTiCC-2018.
+
+https://www.lsst.org/
